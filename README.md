@@ -1,13 +1,15 @@
-# Exercícios de Python-SENAI 🐍
+# Python-Exercises  <img src="https://github.com/user-attachments/assets/072a5464-39cc-43e5-b2ce-f287cd1c3357" width="45"/>  
 
-Este repositório contém exercícios de Python que fiz durante meu curso no SENAI. Os arquivos estão nomeados de **001.py** até **036.py**, representando minha evolução nos estudos.
 
-## 📌 O que aprendi até agora:
-- Lógica de programação e fluxogramas
-- Operadores lógicos
-- Tipos de dados: `int`, `float`, `complex`, `str`, `bool`, `list`, `tuple`, `dic`
-- Manipulação de strings
-- Estruturas condicionais (`if`, `elif`, `else`)
-- Estruturas de repetição (`for`)
-##
-### 💡 **Este repositório será atualizado conforme meu progresso nos estudos!**  
+This repository contains Python exercises I completed during my SENAI course. The files are named **001.py** to **036.py**, representing my progress in learning.  
+
+## 📌 What I've learned so far:  
+- Programming logic and flowcharts  
+- Logical operators  
+- Data types: `int`, `float`, `complex`, `str`, `bool`, `list`, `tuple`, `dict`  
+- String manipulation  
+- Conditional structures (`if`, `elif`, `else`)  
+- Loop structures (`for`)  
+
+##  
+### 💡 **This repository will be updated as I progress in my studies!**  
