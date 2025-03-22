@@ -9,7 +9,7 @@ This repository contains Python exercises I completed during my SENAI course. Th
 - Data types: `int`, `float`, `complex`, `str`, `bool`, `list`, `tuple`, `dict`  
 - String manipulation  
 - Conditional structures (`if`, `elif`, `else`)  
-- Loop structures (`for`)  
+- Loop structures (`for`, `while`)  
 
 ##  
 ### 💡 **This repository will be updated as I progress in my studies!**  
