@@ -27,4 +27,4 @@ while contador < n:
 
         print(proximo)
 
-        contador += 1
+    contador += 1
